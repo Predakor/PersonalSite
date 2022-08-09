@@ -1,9 +1,0 @@
-.container {
-  display: flex;
-  justify-content: center;
-  margin-top: 5vh;
-}
-.githubLink {
-  width: fit-content;
-  font-size: var(--font-size-300);
-}
